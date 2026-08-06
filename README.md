@@ -6,9 +6,9 @@
 
 <div align=”center”>
 
+</div>
 ˋ°•*⁀➷
-This is a wip!
-
+Hall of shame 
 </div>
 
 <p align="center">
