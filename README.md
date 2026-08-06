@@ -6,7 +6,7 @@
 
 <div align=”center”>
 
-</div>
+<div align=”center”>
 
 <p align="center">
 ˋ°•*⁀➷
