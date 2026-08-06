@@ -12,5 +12,5 @@ This is a wip!
 </div>
 
 <p align="center">
-  <img src="https://files.catbox.moe/afhjk7.webp" alt="Alt Text" width="300" />
+  <img src="https://files.catbox.moe/afhjk7.webp" alt="Alt Text" width="200" />
 </p>
