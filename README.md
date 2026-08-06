@@ -7,8 +7,11 @@
 <div align=”center”>
 
 </div>
+
+<p align="center">
 ˋ°•*⁀➷
 Hall of shame 
+
 </div>
 
 <p align="center">
